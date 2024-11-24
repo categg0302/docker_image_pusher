@@ -4,8 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-https://docker.kubesre.xyz
 https://w14ki3ju.mirror.aliyuncs.com
-http://hub-mirror.c.163.com
-https://registry.docker-cn.com
-https://docker.m.daocloud.io
